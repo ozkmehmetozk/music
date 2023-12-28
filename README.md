@@ -25,7 +25,6 @@ This is a simple react native multiplatform sample
  </br>
  
     "build": "rm -rf dist/ && webpack --mode=production --config webpack.config.js",
-    </br>
     
     "web": "webpack serve --mode=development --config webpack.config.js"
  </br>
